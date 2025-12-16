@@ -1,2 +1,4 @@
 # Point of sale system
-moj system
+Pos system for bar
+
+fully working pos system
